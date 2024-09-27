@@ -6,16 +6,23 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Nathan Flores (he/him/his) and growing up, I have grown with a love and appreciation to video games, especially when it was one of the biggest outlets for me to connect with people. I'm taking this class because it is in the GDIM major and I do not have much experience in game development, but I want to take the steps to be able to further expand my knowledge on it and hopefully one day get to be part of a big company. I hope to build some sort of story games that you can interact with because those are my favorite kind.
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [x] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I am hoping to further expand my knowledge on the coding language of C# and being able to get an understanding of the video game development process.
+
 4. What, if anything, are you nervous about for this class?
+
+I am nervous of not being able to understand some topics and being stuck.
 
 ## Prior Experience
 
@@ -25,10 +32,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
-2. Game development (any engine)
+python
 
-3. Unity
+3. Game development (any engine)
 
+scratch
+
+5. Unity
+
+0
 ### Programming & Game Development Concepts
 
 For the next questions, a programming or game development concept is presented:
@@ -38,15 +50,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document   n/a
 
-2. Scope management
+2. Scope management      n/a
 
-3. Iteration
+3. Iteration     n/a
 
-4. Object-Oriented programming
+4. Object-Oriented programming    n/a
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture    n/a
 
 ## Complete!
 
